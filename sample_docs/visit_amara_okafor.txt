@@ -1,0 +1,30 @@
+BRIGHT SMILE DENTAL CLINIC
+142 Harbor Road — Tel 555-0142
+
+ITEMIZED BILL
+Date of service: 2026-10-21
+Patient: Amara Okafor   DOB: 1988-03-14
+Insurance: DentiCare Plus   Member ID: 10293847
+Treating provider: Dr. Lena Vasquez, DDS   License: DDS-44721
+
+  D2740   Crown — porcelain/ceramic (tooth 19) ............ $950.00
+  D2391   Resin composite filling, one surface (tooth 30) . $210.00
+  D9972   External bleaching, per arch ..................... $180.00
+                                              TOTAL ....... $1,340.00
+
+--------------------------------------------------------------------
+
+CLINICAL NOTES — Dr. L. Vasquez
+2026-10-21
+
+Patient presented with pain in lower left quadrant after biting on a
+hard object two days prior. Examination shows fractured existing crown
+on tooth 19 with exposed dentin; immediate restoration indicated.
+Secondary caries identified on tooth 30 during examination, restored
+same visit with single-surface composite.
+
+Patient additionally requested cosmetic whitening of upper arch,
+performed same visit at patient's request.
+
+Diagnosis: Fractured crown tooth 19 (trauma); secondary caries tooth 30.
+Plan: Porcelain/ceramic crown tooth 19; composite restoration tooth 30.
