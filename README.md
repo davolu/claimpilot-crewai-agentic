@@ -18,6 +18,8 @@ Upload docs ──▶ 📄 Extractor ──▶ 🔍 Rule Checker ──▶ 🔧 
 ## Quick start
 
 ```bash
+git clone https://github.com/davolu/claimpilot-crewai-agentic.git
+cd claimpilot-crewai-agentic
 python3 -m venv .venv
 # --only-binary=cryptography matters on Intel Macs: the newest cryptography
 # has no prebuilt wheel there and would try to compile with Rust.
